@@ -1,11 +1,11 @@
 
 <h1 align="center">
   Welcome to my Github profile!
-  
-  <img class = "center" src="http://images4.fanpop.com/image/photos/21600000/Goodbye-Michael-gif-the-office-21673050-300-169.gif"  width="700" height="500" />
+  <br> </br>
+  <img class = "center" src="http://images4.fanpop.com/image/photos/21600000/Goodbye-Michael-gif-the-office-21673050-300-169.gif"  width="600" height="400" />
 </h1>
 
-
+ <br> </br>
 <h1 align="center">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=lil9991&show_icons=true&theme=tokyonight)
@@ -17,7 +17,6 @@
   </h1>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
