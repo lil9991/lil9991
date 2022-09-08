@@ -5,16 +5,19 @@
   <img class = "center" src="http://images4.fanpop.com/image/photos/21600000/Goodbye-Michael-gif-the-office-21673050-300-169.gif"  width="600" height="400" />
 </h1>
 
- <br> </br>
+
+### :woman_technologist: About Me :
+- :seedling:  I’m interested in Computer Vision, Deep Learning, Machine Learning and Neural Networks.
+- :zap: In my free time, I read tech articles.
+<h1></h1>
+
 <h1 align="center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=lil9991&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil9991&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![github stats](https://github-readme-stats.vercel.app/api?username=lil9991&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil9991&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
   </h1>
+  <br></br>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
