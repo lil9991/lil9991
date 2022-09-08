@@ -2,7 +2,7 @@
 <h1 align="center">
   Welcome to my Github profile!👋
   <br> </br>
-  <img class = "center" src="https://github.com/lil9991/lil9991/blob/main/img/TheOffice2.gif"  width="800" height="500" />
+  <img class = "center" src="https://github.com/lil9991/lil9991/blob/main/img/TheOffice2.gif"  width="700" height="350" />
 </h1>
 <br> </br>
 
