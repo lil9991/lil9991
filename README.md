@@ -2,9 +2,9 @@
 <h1 align="center">
   Welcome to my Github profile!👋
   <br> </br>
-  <img class = "center" src="https://github.com/lil9991/lil9991/blob/main/img/TheOffice2.gif"  width="700" height="350" />
+  <img class = "center" src="https://github.com/lil9991/lil9991/blob/main/img/TheOffice2.gif"  width="600" height="300" />
 </h1>
-<br> </br>
+
 
 <h1 align="center">:woman_technologist: About Me :</h1>
 - :seedling:  I’m interested in Computer Vision, Deep Learning, Machine Learning and NLP. <br></br>
