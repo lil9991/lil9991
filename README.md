@@ -7,7 +7,7 @@
 <br> </br>
 
 <h1 align="center">:woman_technologist: About Me :</h1>
-- :seedling:  I’m interested in Computer Vision, Deep Learning, Machine Learning and Neural Networks. <br></br>
+- :seedling:  I’m interested in Computer Vision, Deep Learning, Machine Learning and NLP. <br></br>
 - :zap: In my free time, I read tech articles.
 
 
