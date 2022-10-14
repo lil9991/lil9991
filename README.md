@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi there!👋
+ ad astra per aspera
   <br> </br>
   <img class = "center" src="https://github.com/lil9991/lil9991/blob/main/img/TheOffice2.gif"  width="600" height="300" />
 </h1>
